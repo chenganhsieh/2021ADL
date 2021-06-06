@@ -1,0 +1,1 @@
+python3.8 ./code/main.py --predict --output_mode beam --eval_data_dir "$1" --output_file "$2"
